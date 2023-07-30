@@ -1,7 +1,7 @@
-# Dark Matter
+# Dark Matter RED
 A cold, dark & frosty theme.
 > This is a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
-
+> Updated to make it more of a red deepspace type theme to fit the aesthetic
 ![Preview](https://i.imgur.com/xSG96qa.png)
 
 ## Credits
